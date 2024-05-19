@@ -1,0 +1,72 @@
+Timestamp,TargetIP,Attack,TransactionID
+2023-03-29 00:14:29.41,185.175.0.2,"Starting Payload Injection... ",895
+2023-03-29 00:14:29.417,185.175.0.2,Payload Injection.. Complete,895
+2023-03-29 00:35:32.492,185.175.0.2,"Starting Length manipulation... ",2132
+2023-03-29 00:35:32.492,185.175.0.2,Length manipulation.. Complete,2132
+2023-03-29 00:53:36.911,185.175.0.2,Baseline Replay: In position,3187
+2023-03-29 01:11:40.665,185.175.0.2,"Starting Length manipulation... ",4247
+2023-03-29 01:11:40.665,185.175.0.2,Length manipulation.. Complete,4247
+2023-03-29 01:28:43.079,185.175.0.2,False Data Injection Attack,5246
+2023-03-29 01:45:45.095,185.175.0.2,False Data Injection Attack,6243
+2023-03-29 02:14:48.945,185.175.0.2,False Data Injection Attack,7950
+2023-03-29 02:36:48.995,185.175.0.2,Baseline Replay: In position,9244
+2023-03-29 02:54:53.373,185.175.0.2,Delay Response Attack: Delaying response by 8622 milliseconds,10305
+2023-03-29 02:55:01.996,185.175.0.2,Delay response: Sending response to client,10305
+2023-03-29 03:10:55.103,185.175.0.2,"Starting Payload Injection... ",11241
+2023-03-29 03:10:55.103,185.175.0.2,Payload Injection.. Complete,11241
+2023-03-29 03:27:58.568,185.175.0.2,"Starting Query flooding.. ",12241
+2023-03-29 03:53:02.455,185.175.0.2,"Starting Query flooding.. ",13715
+2023-03-29 03:53:02.456,185.175.0.2,Query flooding.. Complete,13715
+2023-03-29 04:09:04.749,185.175.0.2,Delay Response Attack: Delaying response by 8634 milliseconds,14655
+2023-03-29 04:09:13.384,185.175.0.2,Delay response: Sending response to client,14655
+2023-03-29 04:28:05.285,185.175.0.2,Delay Response Attack: Delaying response by 5665 milliseconds,15763
+2023-03-29 04:28:10.95,185.175.0.2,Delay response: Sending response to client,15763
+2023-03-29 04:55:06.549,185.175.0.2,"Starting Frame Stacking... ",17346
+2023-03-29 04:55:06.549,185.175.0.2,Frame Stacking... Complete,17346
+2023-03-29 05:21:10.406,185.175.0.2,"Starting Frame Stacking... ",18881
+2023-03-29 05:21:10.406,185.175.0.2,Frame Stacking... Complete,18881
+2023-03-29 05:41:12.005,185.175.0.2,Baseline Replay: In position,20056
+2023-03-29 05:59:16.272,185.175.0.2,False Data Injection Attack,21116
+2023-03-29 06:21:21.239,185.175.0.2,"Starting Length manipulation... ",22401
+2023-03-29 06:21:21.24,185.175.0.2,Length manipulation.. Complete,22401
+2023-03-29 06:45:22.505,185.175.0.2,False Data Injection Attack,23804
+2023-03-29 07:05:24.521,185.175.0.2,"Starting Query flooding.. ",24979
+2023-03-29 07:23:28.771,185.175.0.2,"Starting Frame Stacking... ",26044
+2023-03-29 07:23:28.771,185.175.0.2,Frame Stacking... Complete,26044
+2023-03-29 07:40:31.498,185.175.0.2,Baseline Replay: In position,27044
+2023-03-29 07:59:32.079,185.175.0.2,Delay Response Attack: Delaying response by 6210 milliseconds,28161
+2023-03-29 07:59:38.29,185.175.0.2,Delay response: Sending response to client,28161
+2023-03-29 08:25:32.442,185.175.0.2,"Starting Length manipulation... ",29680
+2023-03-29 08:25:32.442,185.175.0.2,Length manipulation.. Complete,29680
+2023-03-29 08:53:35.429,185.175.0.2,Delay Response Attack: Delaying response by 9461 milliseconds,31320
+2023-03-29 08:53:44.891,185.175.0.2,Delay response: Sending response to client,31320
+2023-03-29 09:17:38.037,185.175.0.2,"Starting Frame Stacking... ",32723
+2023-03-29 09:17:38.038,185.175.0.2,Frame Stacking... Complete,32723
+2023-03-29 09:45:42.445,185.175.0.2,"Starting Length manipulation... ",34370
+2023-03-29 09:45:42.445,185.175.0.2,Length manipulation.. Complete,34370
+2023-03-29 10:01:44.255,185.175.0.2,"Starting Payload Injection... ",35304
+2023-03-29 10:01:44.256,185.175.0.2,Payload Injection.. Complete,35304
+2023-03-29 10:28:45.868,185.175.0.2,"Starting Payload Injection... ",36890
+2023-03-29 10:28:45.869,185.175.0.2,Payload Injection.. Complete,36890
+2023-03-29 10:50:50.853,185.175.0.2,"Starting Length manipulation... ",38188
+2023-03-29 10:50:50.854,185.175.0.2,Length manipulation.. Complete,38188
+2023-03-29 11:18:53.598,185.175.0.2,"Starting Query flooding.. ",39828
+2023-03-29 11:43:56.953,185.175.0.2,"Starting Length manipulation... ",41301
+2023-03-29 11:43:56.954,185.175.0.2,Length manipulation.. Complete,41301
+2023-03-29 12:07:59.146,185.175.0.2,Baseline Replay: In position,42705
+2023-03-29 12:24:01.001,185.175.0.2,Baseline Replay: In position,43650
+2023-03-29 12:50:05.375,185.175.0.2,"Starting Frame Stacking... ",45184
+2023-03-29 12:50:05.375,185.175.0.2,Frame Stacking... Complete,45184
+2023-03-29 13:19:06.073,185.175.0.2,"Starting Frame Stacking... ",46895
+2023-03-29 13:19:06.076,185.175.0.2,Frame Stacking... Complete,46895
+2023-03-29 13:46:09.253,185.175.0.2,"Starting Query flooding.. ",48485
+2023-03-29 13:46:09.254,185.175.0.2,Query flooding.. Complete,48485
+2023-03-29 14:06:09.574,185.175.0.2,"Starting Length manipulation... ",49661
+2023-03-29 14:06:09.575,185.175.0.2,Length manipulation.. Complete,49661
+2023-03-29 14:29:13.895,185.175.0.2,"Starting Query flooding.. ",51015
+2023-03-29 14:45:14.376,185.175.0.2,"Starting Length manipulation... ",51955
+2023-03-29 14:45:14.377,185.175.0.2,Length manipulation.. Complete,51955
+2023-03-29 15:01:19.231,185.175.0.2,Baseline Replay: In position,52895
+2023-03-29 15:25:19.451,185.175.0.2,False Data Injection Attack,54307
+2023-03-29 15:46:20.623,185.175.0.2,Baseline Replay: In position,55541
+2023-03-29 16:06:25.02,185.175.0.2,False Data Injection Attack,56723
