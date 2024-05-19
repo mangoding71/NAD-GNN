@@ -1,4 +1,5 @@
-A novel temporal sequence-enhanced DBSCAN approach for attack detection===============================================================================
+A novel temporal sequence-enhanced DBSCAN approach for attack detection
+===============================================================================
 
 About
 -----
