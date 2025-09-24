@@ -1,9 +1,9 @@
-A novel temporal sequence-enhanced DBSCAN approach for attack detection
+NAD-GNN: A novel temporal graph neural network approach for network attack detection
 ===============================================================================
 
 About
 -----
-This project is the implementation of the paper "A novel temporal sequence-enhanced DBSCAN approach for attack detection".
+This project is the implementation of the paper "NAD-GNN: A novel temporal graph neural network approach for network attack detection".
 
 This repo contains the codes, data and results reported in the paper.
 
