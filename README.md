@@ -18,12 +18,14 @@ Usage for NAD-GNN Web API:
 - Lightweight and easy to deploy
 
 📂 Project Structure
+
 nad-gnn-webapi/
 │── app.py # Flask Web API
-│── model.py # Placeholder (model is loaded from nadgnn_model.pt)
 │── nadgnn_model.pt # Pre-trained TorchScript model
 │── requirements.txt # Python dependencies
-│── README.md # Project documentation
+│── tests/	
+│    └── test_api.py	# Unit directory for test
+│── demo.docs/ # The demo of network attack detection system based on the NAD
 
 ⚙️ Installation
 
