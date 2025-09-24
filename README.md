@@ -10,7 +10,7 @@ This repo contains the codes, data and results reported in the paper.
 
 
 Usage for NAD-GNN Web API: 
-
+-----
 🚀 Features
 - RESTful API endpoint for network attack detection
 - Loads a pre-trained NAD-GNN model (`nadgnn_model.pt`)
@@ -58,14 +58,14 @@ Here, the output [0.85, 0.15] represents the probability distribution for [norma
 
 🔒 Model Availability
 -----
-The NAD-GNN model source code are not public.They will be released after the corresponding paper is accepted.
+The NAD-GNN model source code are not public.
+They will be released after the corresponding paper is accepted.
 
 Dependencies for NAD-GNN
 -----
 The script has been tested running under Python 3.7.7, with the following packages installed (along with their dependencies):
 
 * networkx, scipy, sklearn, numpy, pickle
-
 
 Some Python module dependencies are listed in `requirements.txt`, which can be easily installed with pip:
 
