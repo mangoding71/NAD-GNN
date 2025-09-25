@@ -46,9 +46,11 @@ By default, the API runs at:
    http://172.16.0.1:5000
 
 Example with curl
+```
 	curl -X POST http://172.16.0.1:5000/predict \
 	     -H "Content-Type: application/json" \
 	     -d '{"features": [[0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8]]}'
+```
 
 Example Response
 	{
@@ -56,10 +58,7 @@ Example Response
 	}
 Here, the output [0.85, 0.15] represents the probability distribution for [normal, attack].
 
-🔒 Model Availability
------
-The NAD-GNN model source code are not public.
-They will be released after the corresponding paper is accepted.
+
 
 Dependencies for NAD-GNN
 -----
@@ -80,5 +79,9 @@ Usage
 ```
 The verision of jupyter notebook is also supported as: NAD-GNN.ipynb
 
+🔒 Model Availability
+-----
+The NAD-GNN model source code are not public.
+They will be released after the corresponding paper is accepted.
 
 
