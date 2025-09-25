@@ -34,8 +34,11 @@ nad-gnn-webapi/
    ```bash
    git clone https://github.com/mangoding71/nad-gnn/nad-gnn-webapi.git
    cd nad-gnn-webapi
+   ```
 2. Install dependencies:
+   ```
    pip install -r requirements.txt
+   ```
    
 🎦 Running the API
 
